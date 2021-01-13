@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\Mestrado\Programas\AlgoritmoPrim\AlgoritmoPrim\obj\Debug\AlgoritmoPrim.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Mestrado\Programas\AlgoritmoPrim\AlgoritmoPrim\obj\Debug\AlgoritmoPrim.Properties.Resources.resources
+C:\Users\Dell\Desktop\Mestrado\Programas\AlgoritmoPrim\AlgoritmoPrim\obj\Debug\AlgoritmoPrim.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Mestrado\Programas\AlgoritmoPrim\AlgoritmoPrim\obj\Debug\AlgoritmoPrim.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Mestrado\Programas\AlgoritmoPrim\AlgoritmoPrim\bin\Debug\AlgoritmoPrim.exe.config
+C:\Users\Dell\Desktop\Mestrado\Programas\AlgoritmoPrim\AlgoritmoPrim\bin\Debug\AlgoritmoPrim.exe
+C:\Users\Dell\Desktop\Mestrado\Programas\AlgoritmoPrim\AlgoritmoPrim\bin\Debug\AlgoritmoPrim.pdb
+C:\Users\Dell\Desktop\Mestrado\Programas\AlgoritmoPrim\AlgoritmoPrim\obj\Debug\AlgoritmoPrim.exe
+C:\Users\Dell\Desktop\Mestrado\Programas\AlgoritmoPrim\AlgoritmoPrim\obj\Debug\AlgoritmoPrim.pdb
+C:\Users\Dell\Desktop\Mestrado\Programas\AlgoritmoPrim\AlgoritmoPrim\obj\Debug\AlgoritmoPrim.Form1.resources
